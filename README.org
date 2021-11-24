@@ -1,0 +1,5 @@
+#+TITLE: Readme
+
+* About me
+- Technology enthusiast with a focus in programming and programming languages.
+- Currently trying to freshen improve my frontend skills and build some fun projects in the way.
