@@ -1,7 +1,6 @@
 #+TITLE: Readme
 
-* About me
-I'm interested in development and programming languages. Here you can find some random projects I'm working on to try and learnd different things.
+I'm interested in development and programming languages. Here you can find some random projects I'm working on to try and learn different things.
 
 * Projects
 ** version-control
