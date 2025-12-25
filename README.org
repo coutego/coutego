@@ -3,6 +3,9 @@
 I'm interested in development and programming languages. Here you can find some random projects I'm working on to try and learn different things.
 
 * Projects
+** injectable/pluggable/plin/plin-platform
+Component and plugin system written in clojure/script.
+
 ** version-control
 An implementation of a git-like version control system, written in Python.
 
@@ -11,9 +14,3 @@ An implementation of a Lisp interpreter with macro support, written in Typescrip
 
 ** automata-tests
 Run some cellular automatas on a web page. Web application written in clojurescript.
-
-** injectable/pluggable/pluggable-web
-Component and plugin system written in clojure/script.
-
-** ctgtl/ctgtl
-Emacs packages with some utilities I personally use. 
